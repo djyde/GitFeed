@@ -1,0 +1,27 @@
+[
+  {
+    "url": "http://www.36kr.com/feed",
+    "title": "36氪",
+    "category": "tech"
+  },
+  {
+    "url": "http://www.ifanr.com/feed",
+    "title": "爱范儿",
+    "category": "tech"
+  },
+  {
+    "url": "http://www.geekpark.net/rss",
+    "title": "极客公园",
+    "category": "tech"
+  },
+  {
+    "url": "http://www.geekpark.net/rss",
+    "title": "极客公园",
+    "category": "tech"
+  },
+  {
+    "url": "http://djyde.github.io/feed",
+    "title": "Randy's Blog",
+    "category": "blog"
+  }
+]
