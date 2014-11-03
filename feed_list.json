@@ -6,6 +6,16 @@
     "category": "blog"
   },
   {
+    "url": "http://drakeet.me/feed",
+    "title": "Drakeet",
+    "category": "blog"
+  },
+  {
+    "url": "http://stormzhang.github.io/rss",
+    "title": "StormZhang",
+    "category": "blog"
+  },
+  {
     "url": "http://djyde.github.io/feed",
     "title": "Randy's Blog",
     "category": "blog"
