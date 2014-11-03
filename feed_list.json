@@ -1,23 +1,9 @@
 [
   {
-    "url": "http://www.36kr.com/feed",
-    "title": "36氪",
-    "category": "tech"
-  },
-  {
-    "url": "http://www.ifanr.com/feed",
-    "title": "爱范儿",
-    "category": "tech"
-  },
-  {
-    "url": "http://www.geekpark.net/rss",
-    "title": "极客公园",
-    "category": "tech"
-  },
-  {
-    "url": "http://www.geekpark.net/rss",
-    "title": "极客公园",
-    "category": "tech"
+    "url": "http://treyrobinson.net/blog/rss/",
+    "title": "Trey Robinson",
+    "desc": "Android Tutorial",
+    "category": "blog"
   },
   {
     "url": "http://djyde.github.io/feed",
